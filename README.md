@@ -10,9 +10,11 @@
 - Bootstrap Studio: http://bootstrapstudio.io/download
 - FiraCode: https://github.com/tonsky/FiraCode#download-v1205--how-to-install--troubleshooting--news--updates
 - Desktop Background: http://content.hampusolsson.com/pa/paranoid_android_hampus_olsson_2016_2732x2732.jpg
+- Block Spotify ads: https://www.reddit.com/r/Piracy/comments/4kn6rq/comprehensive_guide_to_blocking_ads_on_spotify/
 
 # MAC ONLY
 
+- Spotify: http://spotify.com/download
 - FileZilla: https://filezilla-project.org
 - Chrome: https://chrome.com
 - Visual Studio Code: https://code.visualstudio.com/download
