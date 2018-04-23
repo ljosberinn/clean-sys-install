@@ -2,6 +2,7 @@
 
 # GENERAL
 
+
 - Franz: https://meetfranz.com
 - NodeJS: https://nodejs.org
 - HyperJS: https://releases.hyper.is/download/
@@ -19,7 +20,6 @@
 - as long as https://github.com/ikappas/vscode-phpcs/issues/14 or /8 respectively are unresolved, the following won't work: "composer global require squizlabs/php_codesniffer"
 - alternatively, "cd workspace" -> "composer require squizlabs/php_codesniffer"
 
-
 # MAC ONLY
 
 - Kap: https://electronjs.org/apps/kap
@@ -35,7 +35,6 @@
 - sudo mv php-cs-fixer /usr/local/bin/php-cs-fixer
 - composer global require friendsofphp/php-cs-fixer
 - export PATH="$PATH:$HOME/.composer/vendor/bin"
-
 
 # WINDOWS ONLY
 
