@@ -2,6 +2,9 @@
 
 # GENERAL
 
+- Spotify: http://spotify.com/download
+- FileZilla: https://filezilla-project.org
+- Chrome: https://chrome.com
 - Franz: https://meetfranz.com
 - NodeJS: https://nodejs.org
 - HyperJS: https://releases.hyper.is/download/
@@ -21,9 +24,6 @@
 
 # MAC ONLY
 
-- Spotify: http://spotify.com/download
-- FileZilla: https://filezilla-project.org
-- Chrome: https://chrome.com
 - Kap: https://electronjs.org/apps/kap
 - Homebrew: /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 - update PHP to 7.2: "brew install httpd php72" & follow instructions post-install concerning httpd.conf
