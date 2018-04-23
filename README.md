@@ -2,9 +2,6 @@
 
 # GENERAL
 
-- Spotify: http://spotify.com/download
-- FileZilla: https://filezilla-project.org
-- Chrome: https://chrome.com
 - Franz: https://meetfranz.com
 - NodeJS: https://nodejs.org
 - HyperJS: https://releases.hyper.is/download/
@@ -14,7 +11,8 @@
 - FiraCode: https://github.com/tonsky/FiraCode#download-v1205--how-to-install--troubleshooting--news--updates
 - Desktop Background: http://content.hampusolsson.com/pa/paranoid_android_hampus_olsson_2016_2732x2732.jpg
 - Block Spotify ads: https://www.reddit.com/r/Piracy/comments/4kn6rq/comprehensive_guide_to_blocking_ads_on_spotify/
-- Visual Studio Code: https://code.visualstudio.com/download
+
+- after VS Code is installed (manually / Ninite):
 - Visual Studio Code Settings: https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
 
 - after composer is installed:
@@ -25,6 +23,10 @@
 # MAC ONLY
 
 - Kap: https://electronjs.org/apps/kap
+- Spotify: http://spotify.com/download
+- FileZilla: https://filezilla-project.org
+- Visual Studio Code: https://code.visualstudio.com/download
+- Chrome: https://chrome.com
 - Homebrew: /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 - update PHP to 7.2: "brew install httpd php72" & follow instructions post-install concerning httpd.conf
 - brew install composer
