@@ -38,7 +38,11 @@
 
 # WINDOWS ONLY
 
-- Ninite: https://ninite.com/?select=7zip-chrome-filezilla-firefox-notepadplusplus-openoffice-putty-spotify-vscode
+- Ninite: https://ninite.com/?select=7zip-chrome-filezilla-firefox-notepadplusplus-openoffice-putty-spotify-vscode-java8
 - XAMPP: https://www.apachefriends.org/de/download.html
 - Composer: https://getcomposer.org/Composer-Setup.exe
 - composer global require "squizlabs/php_codesniffer=*"
+- PowerShell: Set-ExecutionPolicy RemoteSigned iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1')) Set-ExecutionPolicy Restricted
+- choco install nodejs.install
+- choco install python2
+- npm install -g react-native-cli
