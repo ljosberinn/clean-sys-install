@@ -5,12 +5,11 @@
 
 - Franz: https://meetfranz.com
 - NodeJS: https://nodejs.org
-- HyperJS: https://releases.hyper.is/download/
+- Hyper: https://releases.hyper.is/download/
      -> hyper install hyper-dracula
      -> brew install composer
 - Bootstrap Studio: http://bootstrapstudio.io/download
 - FiraCode: https://github.com/tonsky/FiraCode#download-v1205--how-to-install--troubleshooting--news--updates
-- Desktop Background: http://content.hampusolsson.com/pa/paranoid_android_hampus_olsson_2016_2732x2732.jpg
 - Block Spotify ads: https://www.reddit.com/r/Piracy/comments/4kn6rq/comprehensive_guide_to_blocking_ads_on_spotify/
 
 - after VS Code is installed (manually / Ninite):
@@ -38,11 +37,11 @@
 
 # WINDOWS ONLY
 
-- Ninite: https://ninite.com/?select=7zip-chrome-filezilla-firefox-notepadplusplus-openoffice-putty-spotify-vscode-java8
+- Ninite: https://ninite.com/?select=7zip-chrome-filezilla-firefox-notepadplusplus-openoffice-spotify-vscode-java8
 - XAMPP: https://www.apachefriends.org/de/download.html
 - Composer: https://getcomposer.org/Composer-Setup.exe
 - composer global require "squizlabs/php_codesniffer=*"
 - PowerShell: Set-ExecutionPolicy RemoteSigned iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1')) Set-ExecutionPolicy Restricted
 - choco install nodejs.install
 - choco install python2
-- npm install -g react-native-cli
+- npm install -g eslint, babel
