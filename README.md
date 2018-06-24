@@ -30,4 +30,4 @@
 
 # WINDOWS ONLY
 
-download [windows.zip](https://github.com/ljosberinn/clean-sys-install/raw/master/windows.zip), `cd` into, then execute `run.bat` _as admin_
+download [windows.zip](https://github.com/ljosberinn/clean-sys-install/raw/master/windows.zip), run `cmd` as admin, `cd` into, then execute `run.bat`
