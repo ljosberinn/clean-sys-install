@@ -1,5 +1,5 @@
 @echo off
-for/F %%a in (hosts.txt) do call :Insert %%a
+for /F %%a in (hosts.txt) do call :Insert %%a
 
 :Insert
 set z=%1

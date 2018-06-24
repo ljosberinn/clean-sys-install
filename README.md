@@ -30,4 +30,8 @@
 
 # WINDOWS ONLY
 
-download [windows.zip](https://github.com/ljosberinn/clean-sys-install/raw/master/windows.zip), run `cmd` as admin, `cd` into, then execute `run.bat`
+download [windows.zip](https://github.com/ljosberinn/clean-sys-install/raw/master/windows.zip), then execute `run.bat` _as admin_
+
+after completion, run `installDependencies.bat` _as admin_
+
+open CMD _as admin_, `cd` into the folder and execute `setupRemaining.bat`
