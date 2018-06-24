@@ -1,0 +1,1 @@
+composer global require "squizlabs/php_codesniffer=\*" & npm install -g eslint, babel, stylelint-config-recommended & hyper install hyper-dracula

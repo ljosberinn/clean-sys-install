@@ -2,16 +2,8 @@
 
 # GENERAL
 
-
-- Franz: https://meetfranz.com
-- NodeJS: https://nodejs.org
-- Hyper: https://releases.hyper.is/download/
-     -> hyper install hyper-dracula
-     -> brew install composer
 - Bootstrap Studio: http://bootstrapstudio.io/download
-- FiraCode: https://github.com/tonsky/FiraCode#download-v1205--how-to-install--troubleshooting--news--updates
 - Block Spotify ads: https://www.reddit.com/r/Piracy/comments/4kn6rq/comprehensive_guide_to_blocking_ads_on_spotify/
-
 - after VS Code is installed (manually / Ninite):
 - Visual Studio Code Settings: https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync
 
@@ -21,9 +13,14 @@
 
 # MAC ONLY
 
+- FiraCode: https://github.com/tonsky/FiraCode#download-v1205--how-to-install--troubleshooting--news--updates
+
 - Kap: https://electronjs.org/apps/kap
+- Hyper: https://releases.hyper.is/download/
+  -> hyper install hyper-dracula
+  -> brew install composer
+- NodeJS: https://nodejs.org
 - Spotify: http://spotify.com/download
-- FileZilla: https://filezilla-project.org
 - Visual Studio Code: https://code.visualstudio.com/download
 - Chrome: https://chrome.com
 - Homebrew: /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
@@ -37,11 +34,8 @@
 
 # WINDOWS ONLY
 
-- Ninite: https://ninite.com/?select=7zip-chrome-filezilla-firefox-notepadplusplus-openoffice-spotify-vscode-java8
-- XAMPP: https://www.apachefriends.org/de/download.html
-- Composer: https://getcomposer.org/Composer-Setup.exe
-- composer global require "squizlabs/php_codesniffer=*"
-- PowerShell: Set-ExecutionPolicy RemoteSigned iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1')) Set-ExecutionPolicy Restricted
-- choco install nodejs.install
-- choco install python2
-- npm install -g eslint, babel
+CMD into this folder as admin and run
+
+```sh
+cd windows & run.bat
+```
