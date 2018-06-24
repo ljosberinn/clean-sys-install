@@ -1,3 +1,3 @@
 cinst -y visualstudiocode-insiders --pre
 
-cinst -y googlechrome;firefox;git;github;discord;hyper;nodejs;7zip;notepadplusplus.install;spotify;composer;bitnami-xampp;firacode;openoffice && setupRemaining.bat
+cinst -y googlechrome;firefox;git;github;hyper;nodejs;7zip;notepadplusplus;spotify;composer;bitnami-xampp;firacode;openoffice;rambox && setupRemaining.bat
