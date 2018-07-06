@@ -1,1 +1,1 @@
-composer global require "squizlabs/php_codesniffer=\*" && npm install -g eslint stylelint-config-recommended eslint-config-airbnb && hyper install hyper-dracula && start cmd /k removeOneDrive.bat && start cmd /k modifyHosts.bat
+composer global require "squizlabs/php_codesniffer=\*" && npm install -g eslint stylelint-config-recommended eslint-config-airbnb && start cmd /k removeOneDrive.bat && start cmd /k modifyHosts.bat
