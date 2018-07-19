@@ -1,1 +1,1 @@
-composer global require "squizlabs/php_codesniffer=\*" && npm install -g eslint stylelint-config-recommended eslint-config-airbnb && start cmd /k removeOneDrive.bat && start cmd /k modifyHosts.bat
+npm install -g eslint@latest stylelint@latest stylelint-config-recommended@latest eslint-config-airbnb@latest typescript@latest && start cmd /k removeOneDrive.bat && start cmd /k modifyHosts.bat
